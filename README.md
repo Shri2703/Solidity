@@ -1,3 +1,3 @@
 # Solidity
 
-Basic Pratice of Solidity and learning the language 
+Basic Pratice of Solidity 
